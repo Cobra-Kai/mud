@@ -1,0 +1,22 @@
+The Waking Well MUD
+===================
+
+= Overview =
+
+The Waking Well is a MUD.
+
+= Archiecture =
+
+Disk-based object system.
+
+cencode.c - encode/decode C-style string escape sequences
+cmd.c
+dir.c
+grow.c
+objdb.c
+object.c
+poly.c
+rand.c
+term.c
+test_object.c
+well.c
